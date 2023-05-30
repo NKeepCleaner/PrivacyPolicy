@@ -3,7 +3,6 @@
 
 N-KeepCleaner collects all installed application information on your device. It loads app name, package name, and app icon for these functions:
 
-- Show app name and icon on main screen
 - Optimize apps with package name
 - Show app name and icon while optimizing
 
