@@ -1,19 +1,3 @@
-# N-KeepCleaner Privacy Policy
-
-N-KeepCleaner retrieves all app information and file information installed on the device. 
-Retrieves the installed app name, package name, and icon, each performing the following functions:
-
-- Cleanup using package name during clean-up operation
-- Display the name of the app you are currently optimizing during cleanup operations
-- Searching for and deleting pictures, videos, and audio files during media file cleanup operations
-- Extract hardware information (uuid, bluetooth, internet connection, sim data, Ram)
-
-App name, package name, and app icon are essential for these functions. All information is deleted after optimizing. (N-KeepCleaner never shares your installed app information.)
-
-N-KeepCleaner never collects your personal information. N-KeepCleaner always cares your privacy.
-
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 #N-KeepCleaner 個人情報処理方針
 
 N-KeepCleanerは機器にインストールされているすべてのアプリ情報及びファイル情報をインポートします。<br>
@@ -29,3 +13,20 @@ N-KeepCleanerは機器にインストールされているすべてのアプリ�
 
 
 N-KeepCleanerは絶対にユーザーの個人情報を収集せず、常にユーザーの情報セキュリティを守るために努力します。
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# N-KeepCleaner Privacy Policy
+
+N-KeepCleaner retrieves all app information and file information installed on the device. 
+Retrieves the installed app name, package name, and icon, each performing the following functions:
+
+- Cleanup using package name during clean-up operation
+- Display the name of the app you are currently optimizing during cleanup operations
+- Searching for and deleting pictures, videos, and audio files during media file cleanup operations
+- Extract hardware information (uuid, bluetooth, internet connection, sim data, Ram)
+
+App name, package name, and app icon are essential for these functions. All information is deleted after optimizing. (N-KeepCleaner never shares your installed app information.)
+
+N-KeepCleaner never collects your personal information. N-KeepCleaner always cares your privacy.
